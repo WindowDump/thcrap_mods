@@ -281,7 +281,7 @@ Crops:
 
 # Greetz
 
-Everyone whose music appears in this mod - you've given me years of enjoyment! I hope I can do the same thing for whoever bothers to use this.
+Everyone whose music appears in this mod - you've given me years of enjoyment! I hope I can do the same thing for whoever bothers to use this. And look, I have proper attribution links above this.
 
 ChipMusic.org
 
