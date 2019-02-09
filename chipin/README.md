@@ -30,9 +30,9 @@ Just keep it doujin.
 
 0. Get thcrap set up to work with IN. [Here's the link again.](https://www.thpatch.net/wiki/Touhou_Patch_Center:Download)
 
-1. Make sure your 
+1. Make sure it's up to date. You might need to go slap ``repo.js`` from the parent directory of this in a ``WindowDump`` folder in your thcrap installation, or it could just automatically appear if I convinced nmlgc to add me to the list of neighbors. :onricdennat: Failing that, you can download the repo from GitHub and extract it into a ``WindowDump`` folder in your thcrap installation.
 
-2. Use the thcrap configurator to add the patches to the new or existing configuration of your choice! Look for "Window Dump's Mods" towards the bottom of the list. Be sure to select the patch last (after the language of your choice, though this mod is in English) so you get the new script and song titles.
+2. Use the thcrap configurator to add the patches to the new or existing configuration of your choice! Look for "Window Dump's Mod Dump" towards the bottom of the list. Be sure to select the patch last (after the language of your choice, though this mod is in English) so you get the new script and song titles.
 
 3. Alternatively, add these patches to an existing configuration:
 
