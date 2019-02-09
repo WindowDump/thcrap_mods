@@ -1,0 +1,23 @@
+{
+    "th08_01": "Phlogiston - Cyber-Axe Café",
+    "th08_02": "Trash80 - Icarus",
+    "th08_03": "Mr. Spastic - Sloppy",
+    "th08_04": "knife city - precious jewel",
+    "th08_05": "A.M.U - Speech Machine Failure",
+    "th08_06": "Psilodump - Låtsades Krama",
+    "th08_07": "Din Stalker - Ohne Zuschlag",
+    "th08_08": "Nullsleep - Dirty ROM Dance Mix",
+    "th08_09": "Bomb Boy - Back Alley Clash",
+    "th08_10": "Radlib - Zoomin' Nature (CTRIX SEES TRICKS SB16 MIXXX 2013)",
+    "th08_11": "Doomcloud - Welcome to Dudley Town",
+    "th08_12": "Sulumi - Jurchen (Covox Remix)",
+    "th08_13": "IAYD - Redshift",
+    "th08_14": "Anamanaguchi - Mess",
+    "th08_15": "Starscream - Gravity in Terms of Space-Time",
+    "th08_16": "Goto80 - Llamawarning",
+    "th08_17": "videogame orchestra - mk ultra",
+    "th08_18": "Rainbowdragoneyes - The Primordial Booze",
+    "th08_19": "Starscream - Kepler's Star Catalog",
+    "th08_20": "Nullsleep - Galaxy Tonite [DMG Version]",
+    "th08_21": "Sabrepulse - We Are Hi-Speed [Saskrotch's Nurrrbody in This Bitch Get Chipsy Remix]"
+}

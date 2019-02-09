@@ -1,0 +1,280 @@
+{
+    "2": {
+        "61_0": {
+            "lines": [
+                "Is it you? Are you the ones making that",
+                "awful racket in the middle of this night?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Who cares about that? Where's the village?",
+                "(Although maybe it's good that we're not waking them...)"
+            ]
+        },
+        "63_0": {
+            "lines": [
+				"It is far past midnight. Turn it down.",
+                "And I won't hand the humans over to you youkai."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "I'll make this mixtape never have happened!"
+            ]
+        }
+    },
+    "3": {
+        "61_0": {
+            "lines": [
+                "Aah, get that noise away from me!"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Hey, it's not that bad! Get back here!"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "I've got a headache now."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "Maybe if you'd just stop freaking out for a bit."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "So the Human Village is supposed to be here, right?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+				"But it's not here now. No houses or people. What happened?",
+				"Did you destroy it? Answer me, youkai!"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Nothing at all happened to it."
+            ]
+        },
+        "64_h1_0": {
+            "lines": [
+                "Keine Kamishirasawa"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "I just made it so that the village",
+                "was invisible and deaf to your kind."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Reimu, we should get moving.",
+				"This is a waste of time. No one's listening."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Besides, there's a show here next week.",
+				"Genso Bit Blit 59. We'll be back."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "I never said I'd go to that. But hold on."
+            ]
+        },
+        "68_0": {
+            "lines": [
+				"You just erased the entire village of humans.",
+				"I'm pretty sure that's illegal."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "\"Music synthesis chips never existed in the first place.\""
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "All I did was make it sound that way."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "I'll protect the humans from this ill-omened tape."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Taunting Reimu I can accept, and even approve of,",
+				"but don't think you can get away from the tape so easily."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "Psilodump would simply use an analog synthesizer."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "And then you'd still be hearing this tune anyway.",
+                "You can't stop the power of chipmusic."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "What the hell does that even mean?"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Really, what <i$are> you two?",
+				"A human and youkai blasting inhuman music."
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "Don't worry. This stuff's pretty catchy.",
+				"You kinda start to warm up to it."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Uugh. Your pity isn't helping."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "Anyway, let's talk about you."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "You're a half-beast, right? Only listens to old music,",
+				"made with primitive synthesizers, by French men."
+            ]
+        },
+        "81_0": {
+            "lines": [
+				"It's the history of this trash you're playing now, you idiot.",
+				"The origins of all your plebian dance music!"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Ah, one of those \"I read about early synth once!\" types.",
+                "How is your video essay on Oxygène coming along?"
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "Why are you assuming I only listen to Jean-Michel Jarre!?",
+                "I'll have you know that my taste is far more refined than that!"
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "Yes, you've named the single most famous composer. Good taste.",
+                "...Reimu, play the next tune."
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "...Oh well. There's no use arguing any more."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "If you're going to say that, I won't let you take it back."
+            ]
+        },
+        "87_0": {
+            "lines": [
+                "Tonight, I'll make an imperial feast out of your tape!"
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "There's decades of history on there. I'm sure you'll enjoy",
+                "it more than Reimu's dad rock tape."
+            ]
+        },
+        "89_0": {
+            "lines": [
+                "Hey, shove it, Yukari.",
+                "That's my <i$JoJo's Bizarre Adventure> mixtape!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+				"That fight would've been better to \"Gold Experience.\"",
+				"Anyway, put the Human Village back."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "In time for the show next week.",
+                "Oh, and tell everyone to go to it."
+            ]
+        },
+        "62_0": {
+            "lines": [
+				"If you're not here for the humans,",
+                "then where are you trying to go?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Hmmm. Usually we set up in the center by the statue..."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Weren't we looking for the people behind the Moon?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "The people behind the Moon are over there.",
+                "Although I can't say they'll be excited to hear you."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Great, that's perfect, let's leave before the next tune."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Reimu, impromptu shows are the best. Why hurry?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "You told me we were looking for the Moon. And I'd",
+                "rather not give the town less reasons to come to my shrine..."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "We should have the next show at the shrine, then.",
+				"\"Genso Microcode 59 @ Hakurei Shrine.\" Good idea."
+            ]
+        }
+    }
+}

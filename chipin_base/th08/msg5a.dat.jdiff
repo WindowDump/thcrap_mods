@@ -1,0 +1,290 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Do you have any manners?"
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "You break into someone's house in the middle of the night,",
+                "blasting house music like you own the place."
+            ]
+        },
+        "121_1": {
+            "lines": [
+                "Tell me about it."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Maybe if you hadn't stolen the full Moon,",
+                "we wouldn't need to wage sonic warfare on you."
+            ]
+        },
+        "123_h1_0": {
+            "lines": [
+                "Reisen"
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "Who the hell are you people? Youkai?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Breaking and entering, disturbing the peace, assault...",
+                "I should call the police."
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "I am the police! I think? No, I am.",
+				"Closest to them, at least. And I'm a human."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Gensokyo's police leaves a lot to be desired.",
+				"Looks like I'll need to take things into my own hands. Again."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Last time I checked, this mansion isn't supposed to be here.",
+                "So we have you on building code violations. Among other things."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Other things? Oh, you mean sealing up the Earth?",
+                "Also, this building is completely up to code."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "Uh. Sure. Sealing up the Earth. Whatever.",
+                "This place is shaking a lot for something \"up to code.\""
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "We mean the full Moon. Whatever you did to it.",
+                "Stop it, or I'll have Reimu crank it up to 11."
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Ah, yes, the Moon? That's Eirin's most powerful spell.",
+                "Better than some loud bass."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "It makes this Earth into a giant, sealed chamber.",
+                "Do you get it now? Sealed chamber? The Moon?"
+            ]
+        },
+        "133_0": {
+            "lines": [
+                "Repeating things doesn't make it more clear."
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "Mm-mm. I wouldn't expect you to understand.",
+                "Not if you listen to music like that."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "Also, that spell's hardly my most powerful one.",
+                "And I have records with grooves out of this world."
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "Is that a challenge? Perhaps we should settle this outside,",
+                "turntable to turntable (and Famicom)."
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "Uh, Yukari. She's the one behind the Moon.",
+                "Can't you feel it? That's a little more important..."
+            ]
+        },
+        "197_0": {
+            "lines": [
+				"I shall break the border of obsolete and modern!",
+                "All of Gensokyo will feel my bass!"
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "Consider this. If you quietly leave right now,",
+                "I promise I'll battle you in the morning."
+            ]
+        },
+        "199_0": {
+            "lines": [
+                "...I can see you're not interested. Udonge.",
+                "It's time for the light show."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Then show them the door.",
+                "I will leave this in your hands."
+            ]
+        },
+        "261_0": {
+            "lines": [
+				"Leave it to me.",
+				"You two aren't prone to seizures, right?"
+            ]
+        },
+        "262_0": {
+            "lines": [
+				"Hey! Get back here! You can't distract us",
+				"with a bunch of blinking lights!"
+            ]
+        },
+        "263_0": {
+            "lines": [
+                "Ran, why are my records sorted by BPM and not key?",
+                "Reimu, play the next tune while I fix this..."
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "Hmph. You were just told there won't be a battle,",
+                "so it'll be better if you just put those away..."
+            ]
+        },
+        "265_0": {
+            "lines": [
+                "I'll cancel out your awful tunes,",
+                "and have you seeing nothing but neon!"
+            ]
+        },
+        "266_0": {
+            "lines": [
+                "Cancel out the tunes? Also what the hell are those lights?"
+            ]
+        },
+        "267_0": {
+            "lines": [
+                "It's my hypnosis. I can change wavelengths of light and sound.",
+                "Those square waves are nothing to me."
+            ]
+        },
+        "268_0": {
+            "lines": [
+                "But what if the pulse width keeps changing?"
+            ]
+        },
+        "269_0": {
+            "lines": [
+                "Nothing. I can invert the phase faster than you can hear.",
+				"And I'm even better with light."
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "So, I wonder if you can remain in your right mind",
+                "while gazing at the light show of this lunar rabbit?"
+            ]
+        }
+    },
+    "3": {
+        "180_0": {
+            "lines": [
+                "Play the Anamanaguchi Tape (Final A)",
+                "Play the Starscream Tape (Final B)"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Ha ha! One down, one to go. Now for the one with the Moon."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Where did that poser run off to, again?",
+                "I just got the records in order..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "\"Poser\"?... Hey, she's my master!",
+                "She's got much better skills than you."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Do you hear that? Is that a supersaw?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "We have got to stop her before the 5-minute breakdown starts."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "She wouldn't play trance, and don't call her a-"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Hey. Rabbit. Here's how things work in Gensokyo.",
+                "I kick your ass, and then you get out of my way."
+            ]
+        }
+    },
+    "2": {
+        "60_0": {
+            "lines": [
+                "Ha ha! One down, one to go. Now for the one with the Moon."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Where did that poser run off to, again?",
+                "I just got the records in order..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Hey, forget about those. That door over there...",
+                "You can feel it, can't you?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "What? I thought I sealed that door!",
+                "Oh no, I must've missed it..."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "That isn't the one Eirin went through."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Who cares about her? Your ego?",
+                "Whoever's actually behind all this is there."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Well, looks like I'm cleaning up after Tewi again..."
+            ]
+        }
+    }
+}

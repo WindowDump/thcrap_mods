@@ -1,0 +1,3 @@
+{
+	"font": "Touhou Biolinum"
+}
