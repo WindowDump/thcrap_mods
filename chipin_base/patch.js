@@ -8,5 +8,5 @@
 		"https://raw.githubusercontent.com/WindowDump/thcrap_mods/master/chipin_base/"
 	],
 	"title": "Base files for chipin.",
-	"update": false
+	"update": true
 }
