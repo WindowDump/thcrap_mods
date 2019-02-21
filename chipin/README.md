@@ -6,13 +6,13 @@ MP3's have been processed with [mp3gain](http://mp3gain.sourceforge.net/), so th
 
 This patch contains curse words. They're mostly in the Extra Stage. Consider yourself warned.
 
-Slapped together *with love* using pcutmp3, mp3gain, and GIMP.
+Slapped together *with love* using pcutmp3, mp3gain, and GIMP. (And Ableton Live because I can't beatmatch.)
 
 ## Concept
 
 Why *Imperishable Night*? Why chipmusic?
 
-Quite simply, because I've developed an unhealthy obsession with Touhou and IN is my favorite so far, because I like rooting through my collection of chipmusic, and because thcrap made doing all of this far easier than it should have been. Don't hate the mod tools, hate the modder.
+Quite simply, because I've developed an unhealthy obsession with Touhou and IN is my favorite so far; because I like rooting through my collection of chipmusic; and because thcrap made doing all of this far easier than it should have been. Don't hate the mod tools, hate the modder.
 
 Also my current working knowledge of Touhou lore suggests that not only is Yukari likely to collect weird music from the outside world, she's also the most likely to find reasons to force people to listen to it for her own amusement. That's the starting point for the script, and things flowed from there.
 
@@ -24,28 +24,19 @@ I've done my best to choose freely available music for this mod - it's possible 
 
 Wherever applicable, the licesnses of the original release should overwrite any other licenses and copyrights applied to the contents of this mod. This is to say: I do not own the music or the derivative edits of it for this mod. Please do not sell this mod or attempt to claim any musical works as your own.
 
-Just keep it doujin.
+Just keep it ~~doujin~~ copyleft.
 
 ## Installation Instructions
 
-0. Get thcrap set up to work with IN. [Here's the link again.](https://www.thpatch.net/wiki/Touhou_Patch_Center:Download)
+This is just a standard thcrap mod, which shows up in the list of neighbors. Installing it is as easy as anything else in thcrap, but here's a refresher if you need it.
 
-1. Make sure it's up to date. You might need to go slap ``repo.js`` from the parent directory of this in a ``WindowDump`` folder in your thcrap installation, or it could just automatically appear if I convinced nmlgc to add me to the list of neighbors. :onricdennat: Failing that, you can download the repo from GitHub and extract it into a ``WindowDump`` folder in your thcrap installation.
+1. Get thcrap set up to work with IN. [Here's the link again.](https://www.thpatch.net/wiki/Touhou_Patch_Center:Download)
 
-2. Use the thcrap configurator to add the patches to the new or existing configuration of your choice! Look for "Window Dump's Mod Dump" towards the bottom of the list. Be sure to select the patch last (after the language of your choice, though this mod is in English) so you get the new script and song titles.
+2. Run the thcrap configurator. Choose the language of your choice (optional, you should probably pick lang_en), then choose chipin from the list of available mods. Pick a name for the configuration you'll remember. thcrap will then download the files for you automatically!
 
-3. Alternatively, add these patches to an existing configuration:
+3. Run thcrap with the configuration you just made and the 
 
-```
-{
-  "archive": "WindowDump/chipin_base/"
-},
-{
-  "archive": "WindowDump/chipin/"
-}
-```
-
-Typos? Bugs? Questions? Complaints? Bug Window Dump on the Touhou Patch Center Discord server! https://discord.thpatch.net/
+Typos? Bugs? Questions? Complaints? Bug Window Dump on the Touhou Patch Center Discord server! https://discord.thpatch.net/ Or make an issue on the GitHub, that works too.
 
 # Music Credits & Timecode Crop Information
 
@@ -102,6 +93,9 @@ Crops:
 A.M.U - Speech Machine Failure, from Diamond (2010), 8BP112
 
 http://www.8bitpeoples.com/products/520413-a-m-u-diamond
+
+After feedback from Arandui42 I did some surgery to this track with Ableton Live and came up with about 12 different segments stitched together. There's literally a minute-long breakdown I had to edit around to get all the juicy bits, because this is intended for DJ use I guess. Luckily sometimes I pretend to be a DJ and this is my use for it. Hopefully this track doesn't have enough headroom for you to tell it's been re-encoded, the files pcutmp3 spits out don't want to be concatenated together.
+If you don't like that...
 
 Crops:
 
@@ -283,12 +277,14 @@ Crops:
 
 Everyone whose music appears in this mod - you've given me years of enjoyment! I hope I can do the same thing for whoever bothers to use this. And look, I have proper attribution links above this.
 
-ChipMusic.org
+[ChipMusic.org](https://chipmusic.org/)
 
 [Touhou Patch Center](https://www.thpatch.net/wiki/Touhou_Patch_Center:Main_page)
 
 Mandalore's Anime Containment
 
-GST大好き
+[GST大好き](https://www.youtube.com/channel/UCoQsV1On1wnbGn705cf_9Gw)
 
 Anyone else who actually bothered to download this meme. Bug me on Discord and I'll put your name here for the screencap.
+
+Mad props out to nmlgc, Arandui42.
