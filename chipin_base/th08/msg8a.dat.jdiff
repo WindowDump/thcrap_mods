@@ -282,7 +282,7 @@
         "166_0": {
             "lines": [
 				"I'm not sure about that, I think she's just full of herself.",
-				"Oh, I need you to play the next tune. <i$It's special.>"
+				"Oh, I need you to play the next tune. <i$It's special.>\u0014It's time to RAGE!"
             ]
         },
         "167_0": {
@@ -444,7 +444,7 @@
         },
         "84_0": {
             "lines": [
-				"It's a goddamn Adlib song with power metal vocals."
+				"It's a goddamn Adlib eurobeat song with power metal vocals."
             ]
         },
         "85_0": {
@@ -456,7 +456,7 @@
         "86_0": {
             "lines": [
                 "Just wait for my next one.",
-				"Stay tuned, thcrap fans!"
+				"Stay tuned, thcrap fans!\u0014Ping me on Discord and I'll add you to the README."
             ]
         }
     }

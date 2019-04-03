@@ -1,6 +1,6 @@
 {
-	"patch.js": 2004942831,
-	"th08.js": 584349603,
+	"patch.js": 1715353489,
+	"th08.js": 686993724,
 	"th08/data/end/staff00a00.png": 2371232745,
 	"th08/data/result/music00.png": 771756637,
 	"th08/data/text/stg1txt.png": 3535764565,
@@ -15,14 +15,14 @@
 	"th08/end00a.end": 3621711697,
 	"th08/end00b.end": 2315923990,
 	"th08/end00c.end": 2746189903,
-	"th08/msg1a.dat.jdiff": 3114268612,
-	"th08/msg2a.dat.jdiff": 1223730491,
+	"th08/msg1a.dat.jdiff": 2704478973,
+	"th08/msg2a.dat.jdiff": 3949368590,
 	"th08/msg3a.dat.jdiff": 4084412520,
-	"th08/msg4ba.dat.jdiff": 2669595027,
+	"th08/msg4ba.dat.jdiff": 565773197,
 	"th08/msg5a.dat.jdiff": 3971248083,
 	"th08/msg6a.dat.jdiff": 1643472947,
-	"th08/msg7a.dat.jdiff": 1373433045,
-	"th08/msg8a.dat.jdiff": 2739519474,
+	"th08/msg7a.dat.jdiff": 3333113624,
+	"th08/msg8a.dat.jdiff": 2596256093,
 	"th08/musiccmt.js": 3436336033,
 	"themes.js": 3835107695
 }

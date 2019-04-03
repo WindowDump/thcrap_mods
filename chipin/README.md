@@ -34,7 +34,7 @@ This is just a standard thcrap mod, which shows up in the list of neighbors. Ins
 
 2. Run the thcrap configurator. Choose the language of your choice (optional, you should probably pick lang_en), then choose chipin from the list of available mods. Pick a name for the configuration you'll remember. thcrap will then download the files for you automatically!
 
-3. Run thcrap with the configuration you just made and the 
+3. Run thcrap with the configuration you just made and th08 as the target. Now, enter "My World"!
 
 Typos? Bugs? Questions? Complaints? Bug Window Dump on the Touhou Patch Center Discord server! https://discord.thpatch.net/ Or make an issue on the GitHub, that works too.
 
@@ -285,6 +285,6 @@ Mandalore's Anime Containment
 
 [GST大好き](https://www.youtube.com/channel/UCoQsV1On1wnbGn705cf_9Gw)
 
-Anyone else who actually bothered to download this meme. Bug me on Discord and I'll put your name here for the screencap.
+Anyone who actually bothered to download this meme. Bug me on Discord and I'll put your name here for the screencap.
 
-Mad props out to nmlgc, Arandui42.
+Mad props out to Nmlgc, Arandui42.
