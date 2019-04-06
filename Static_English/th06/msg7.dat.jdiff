@@ -1,0 +1,658 @@
+{
+    "2": {
+        "60_0": {
+            "lines": [
+                "What? Are you here again?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "I'm here again."
+            ]
+        },
+        "221_0": {
+            "lines": [
+                "Today I'm in really good health."
+            ]
+        },
+        "282_0": {
+            "lines": [
+                "I'll show you my special magic!"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "It's hotter than usual today."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Are the attacks so ferocious"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "because that girl went crazy?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Not so!",
+                "You, red-white!"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Another lunatic?"
+            ]
+        },
+        "247_h1_0": {
+            "lines": [
+                "The Devil's Sister",
+                "<c$Flandre Scarlet$The Devil's Sister>"
+            ]
+        },
+        "247_0": {
+            "lines": [
+                "Here I am."
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Who are you? You weren't here before..."
+            ]
+        },
+        "250_0": {
+            "lines": [
+                "I was, but you couldn't see me."
+            ]
+        },
+        "251_0": {
+            "lines": [
+                "Don't tell me. You're human?"
+            ]
+        },
+        "252_0": {
+            "lines": [
+                "Yes, that's right."
+            ]
+        },
+        "253_0": {
+            "lines": [
+                "Are you sure you're not lying?"
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "I have only seen humans as a drink."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "Yes, I am human."
+            ]
+        },
+        "257_0": {
+            "lines": [
+                "Humans are a bit more complicated than",
+                "tea. Most of them are, anyway."
+            ]
+        },
+        "259_0": {
+            "lines": [
+                "But, chickens..."
+            ]
+        },
+        "260_0": {
+            "lines": [
+                "Aah?"
+            ]
+        },
+        "261_0": {
+            "lines": [
+                "...Are tasty even to people who can't make",
+                "food from them."
+            ]
+        },
+        "263_0": {
+            "lines": [
+                "And who makes food from humans in your",
+                "household?"
+            ]
+        },
+        "265_0": {
+            "lines": [
+                "I dont know... I don't think big sister",
+                "does..."
+            ]
+        },
+        "267_0": {
+            "lines": [
+                "Sister?"
+            ]
+        },
+        "268_0": {
+            "lines": [
+                "Replica-somethingorother, the Devil?"
+            ]
+        },
+        "269_0": {
+            "lines": [
+                "Remilia!",
+                "My sister Remilia!"
+            ]
+        },
+        "271_0": {
+            "lines": [
+                "I seriously doubt she can make food."
+            ]
+        },
+        "273_0": {
+            "lines": [
+                "She doesn't."
+            ]
+        },
+        "274_0": {
+            "lines": [
+                "It's a good thing I met you."
+            ]
+        },
+        "275_0": {
+            "lines": [
+                "Your big sister keeps visiting my shrine",
+                "and being a nuisance."
+            ]
+        },
+        "277_0": {
+            "lines": [
+                "Tell her to go away."
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "I know!"
+            ]
+        },
+        "279_0": {
+            "lines": [
+                "I tried to go too..."
+            ]
+        },
+        "280_0": {
+            "lines": [
+                "Don't!"
+            ]
+        },
+        "281_0": {
+            "lines": [
+                "I couldn't go out. It was raining too much."
+            ]
+        },
+        "283_0": {
+            "lines": [
+                "You're really careful, aren't you? Have you",
+                "done something evil in the past?"
+            ]
+        },
+        "285_0": {
+            "lines": [
+                "I couldn't have."
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "I haven't been out for 495 years!"
+            ]
+        },
+        "288_0": {
+            "lines": [
+                "Truly, a real problem child."
+            ]
+        },
+        "289_0": {
+            "lines": [
+                "I have a play toy over here..."
+            ]
+        },
+        "290_0": {
+            "lines": [
+                "What do you want to play?"
+            ]
+        },
+        "291_0": {
+            "lines": [
+                "Danmaku play."
+            ]
+        },
+        "292_0": {
+            "lines": [
+                "Oh, making patterns. That happens to be",
+                "my specialty!"
+            ]
+        }
+    },
+    "1": {
+        "61_0": {
+            "lines": [
+                "See?",
+                "This is the power of believing in god!"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "You think you've won?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "We're not done yet!"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "!?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Hey, you really look like you're out of",
+                "everything."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Yes, well, I can't even shoot smoke",
+                "anymore..."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "I'll visit you whenever you wish."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "So please, please don't come to my",
+                "shrine."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Oh, and I was thinking of visiting you with",
+                "cake and tea as thanks."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "You should never bring the food of your",
+                "kind to a human's place."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "It's not too sweet, is it?"
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Not even if it's sugar-free!"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Now, good girl, go home and go to bed."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "...But isn't this already my home?"
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "Well then, no \"going home\" for bad girls."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "I'm going home now."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Bad girls don't need to go home."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "...I let another bad girl stay here after all."
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "Who do you mean by bad girls?"
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "I mean you and your sister!!"
+            ]
+        }
+    },
+    "12": {
+        "60_0": {
+            "lines": [
+                "What?",
+                "Are you here again?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Is it you?",
+                "Are you doing all this?"
+            ]
+        },
+        "221_0": {
+            "lines": [
+                "I don't have time for that~"
+            ]
+        },
+        "282_0": {
+            "lines": [
+                "First the little sister, and now you! What",
+                "kind of day is this?"
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "What has happened in this house?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Remilia is at the shrine now."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Why are the attacks in this house so",
+                "ferocious?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Did you call me?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "No, I didn't."
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "Hello."
+            ]
+        },
+        "247_0": {
+            "lines": [
+                "Who are you?"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Before asking a person's name..."
+            ]
+        },
+        "249_0": {
+            "lines": [
+                "Ah, me?"
+            ]
+        },
+        "250_0": {
+            "lines": [
+                "Let's see, I am Reimu Hakurei. A shrine",
+                "maiden"
+            ]
+        },
+        "252_h1_0": {
+            "lines": [
+                "The Devil's Sister",
+                "<c$Flandre Scarlet$The Devil's Sister>"
+            ]
+        },
+        "251_0": {
+            "lines": [
+                "I am Flandre, Miss Marisa. (Next time try a",
+                "better lie than a shrine maiden.)"
+            ]
+        },
+        "253_0": {
+            "lines": [
+                "And what are you? (Maybe I should have",
+                "claimed to be a nurse?)"
+            ]
+        },
+        "255_0": {
+            "lines": [
+                "I've been here the whole time."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "Even during your last visit."
+            ]
+        },
+        "258_0": {
+            "lines": [
+                "You have?"
+            ]
+        },
+        "259_0": {
+            "lines": [
+                "Yes, in the cellar."
+            ]
+        },
+        "260_0": {
+            "lines": [
+                "For about 495 years."
+            ]
+        },
+        "261_0": {
+            "lines": [
+                "That sounds great, I only get 2 days off",
+                "per week."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "I heard you when you spoke and quarreled",
+                "with my elder sister."
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "Elder sister?",
+                "So you're the younger one."
+            ]
+        },
+        "266_0": {
+            "lines": [
+                "I wanted to see some humans, so I came",
+                "up."
+            ]
+        },
+        "268_0": {
+            "lines": [
+                "Well, that's great.",
+                "Here here, have a good look."
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "Will you play with me?"
+            ]
+        },
+        "271_0": {
+            "lines": [
+                "How much will you pay?"
+            ]
+        },
+        "272_0": {
+            "lines": [
+                "One coin."
+            ]
+        },
+        "273_0": {
+            "lines": [
+                "You can't buy a life for one coin."
+            ]
+        },
+        "275_0": {
+            "lines": [
+                "I meant that you can't continue!"
+            ]
+        }
+    },
+    "11": {
+        "61_0": {
+            "lines": [
+                "Soooo, are you satisfied?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "This isn't happening.",
+                "I never imagined that I could lose..."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Yeah, it might be kinda untrue."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "I'll call it a day for now, though."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Sure, I'm satisfied."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "But now I'm alone again."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "♪!"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Then you'll hang yourself?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Why?"
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "She went and hanged herself"
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "and then there were none."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Where did you hear that song?"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "It's a popular rhyme."
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "I expected you to be the last Indian."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "That Spell Card that made you invisible,",
+                "eh."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "She died by the bullet"
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "and then there were none."
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "Sorry for defying your expectations. I",
+                "happen to be good at dodging."
+            ]
+        },
+        "87_0": {
+            "lines": [
+                "Well, whatever.",
+                "I can't die even if I hang myself."
+            ]
+        },
+        "89_0": {
+            "lines": [
+                "A hanged corpse is ugly."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Why don't you follow the original song?"
+            ]
+        },
+        "91_0": {
+            "lines": [
+                "Original song?"
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "Hey, you really don't know?"
+            ]
+        },
+        "93_0": {
+            "lines": [
+                "She got married",
+                "and then there were none..."
+            ]
+        },
+        "95_0": {
+            "lines": [
+                "With who?"
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "I'll introduce you to a shrine maiden."
+            ]
+        }
+    }
+}

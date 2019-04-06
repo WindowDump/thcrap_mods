@@ -8,5 +8,5 @@
 		"https://raw.githubusercontent.com/WindowDump/thcrap_mods/master/EoSD_Retexture/"
 	],
 	"title": "(TH06) Rexture Patch by Emarrel",
-	"update": false
+	"update": true
 }

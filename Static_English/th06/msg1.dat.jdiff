@@ -1,0 +1,181 @@
+{
+    "0": {
+        "60_1": {
+            "lines": [
+                "It feels great out tonight."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "There are only a few evil spirits out during",
+                "the day, so I tried at night for once, but..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "It's so dark I don't know where to go."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "Still..."
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "It's so romantic in the temple yard at night.",
+                "(<= carefree)"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "You're so right."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Ghosts and all, it's simply wonderful!"
+            ]
+        },
+        "135_0": {
+            "lines": [
+                "...And you are?"
+            ]
+        },
+        "135_h1_0": {
+            "lines": [
+                "The Youkai of Darkness",
+                "<c$Rumia$The Youkai of Darkness>"
+            ]
+        },
+                "136_0": {
+            "lines": [
+                "We met just a moment ago, didn't we? Are",
+                "you bird-eyed?"
+            ]
+        },
+        "137_0": {
+            "lines": [
+                "Humans can't see very well in the dark."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Oh? But I've seen people who only work at",
+                "night."
+            ]
+        },
+        "139_0": {
+            "lines": [
+                "You can have them for dinner if you want."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Oh, can I now?"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Anyway, you're in my way you know."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "May I eat the one standing before me?"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Have you heard the saying, \"Good",
+                "medicine tastes bad?\""
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Well, you wouldn't know if it's good",
+                "medicine or not"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "unless you drank it for yourself."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "This feeling, it's kind of..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "If she was here, she'd probably say, \"It",
+                "feels great out tonight.\""
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I'm not her, though. I hate the night."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "There are only weirdos around this time."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Who are you calling a weirdo?"
+            ]
+        },
+        "104_h1_0": {
+            "lines": [
+                "The Youkai of Darkness",
+                "<c$Rumia$The Youkai of Darkness>"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Nobody's talking about you, here."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Of course not."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "So, why are you stretching out your arms?"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Doesn't this look like it's saying \"The saint",
+                "was crucified\"?"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "It looks like \"Humanity started using the",
+                "decimal system.\""
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "She's lower than a human."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "I bet she doesn't even have ten fingers."
+            ]
+        }
+    }
+}
