@@ -9,7 +9,7 @@
 		"chipin_base": "Base files for chipin."
 	},
 	"servers": [
-		"http://mirrors.thpatch.net/WindowDump/",
+		"https://mirrors.thpatch.net/WindowDump/",
 		"https://raw.githubusercontent.com/WindowDump/thcrap_mods/master/"
 	],
 	"title": "Window Dump's Mod Dump"
