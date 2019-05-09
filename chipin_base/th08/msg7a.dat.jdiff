@@ -25,8 +25,8 @@
     "0": {
         "60_0": {
             "lines": [
-				"Oh my, that is actually the full Moon.",
-				"How did it get there?"
+                "Oh my, that is actually the full Moon.",
+                "How did it get there?"
             ]
         },
         "121_0": {
@@ -64,8 +64,8 @@
         },
         "126_0": {
             "lines": [
-				"That didn't answer my question. I said <i$\"what\">, not \"who\".",
-				"You're being a pedantic little child."
+                "That didn't answer my question. I said <i$\"what\">, not \"who\".",
+                "You're being a pedantic little child."
             ]
         },
         "127_0": {
@@ -91,8 +91,8 @@
         },
         "131_0": {
             "lines": [
-				"Reimu, please, I'm trying to challenge her to a DJ battle.",
-				"You can have a danmaku fight with her after."
+                "Reimu, please, I'm trying to challenge her to a DJ battle.",
+                "You can have a danmaku fight with her after."
             ]
         },
         "132_0": {
@@ -117,12 +117,12 @@
         },
         "136_0": {
             "lines": [
-				"If you're so superior, what are you doing down here?"
+                "If you're so superior, what are you doing down here?"
             ]
         },
         "137_0": {
             "lines": [
-				"She's here to shoot intricate patterns of bullets at us, obviously."
+                "She's here to shoot intricate patterns of bullets at us, obviously."
             ]
         },
         "138_0": {
@@ -133,14 +133,14 @@
         },
         "139_0": {
             "lines": [
-				"I can't count how many dumb speeches like this I've heard.",
-				"I get it. You think you're cool and better than us."
+                "I can't count how many dumb speeches like this I've heard.",
+                "I get it. You think you're cool and better than us."
             ]
         },
         "140_0": {
             "lines": [
                 "You know how long it's been the same night.",
-				"Do you know how many times I've heard this tape?"
+                "Do you know how many times I've heard this tape?"
             ]
         },
         "141_0": {
@@ -161,9 +161,9 @@
         },
         "144_0": {
             "lines": [
-				"Reimu, are you complaining about the tape now?",
-				"I thought I told you it never gets old. It's timeless."
-			]
+                "Reimu, are you complaining about the tape now?",
+                "I thought I told you it never gets old. It's timeless."
+            ]
         },
         "145_0": {
             "lines": [
@@ -183,8 +183,8 @@
         },
         "148_0": {
             "lines": [
-				"Yukari, it's not that it's bad, it's just not quite...",
-				"\"every night for all eternity\" good. Not like my tape."
+                "Yukari, it's not that it's bad, it's just not quite...",
+                "\"every night for all eternity\" good. Not like my tape."
             ]
         },
         "149_0": {
@@ -247,7 +247,7 @@
         "61_0": {
             "lines": [
                 "Hey! I can hear you putting in a new tape!",
-				"That's cheating!"
+                "That's cheating!"
             ]
         },
         "62_0": {
@@ -259,7 +259,7 @@
     "6": {
         "60_0": {
             "lines": [
-				"That's right. You're stopping the night, aren't you.",
+                "That's right. You're stopping the night, aren't you.",
                 "This half-finished eternal mixtape that you have made..."
             ]
         }
@@ -281,8 +281,8 @@
     "9": {
         "60_0": {
             "lines": [
-				"Now, it's time for the sudden-death elimination bonus round!",
-				"Your eternal night will be broken, and the dawn shall come!"
+                "Now, it's time for the sudden-death elimination bonus round!",
+                "Your eternal night will be broken, and the dawn shall come!"
             ]
         }
     }

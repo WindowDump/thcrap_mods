@@ -14,7 +14,7 @@
         },
         "63_0": {
             "lines": [
-				"It is far past midnight. Turn it down.",
+                "It is far past midnight. Turn it down.",
                 "And I won't hand the humans over to you youkai."
             ]
         },
@@ -54,8 +54,8 @@
         },
         "62_0": {
             "lines": [
-				"But it's not here now. No houses or people. What happened?",
-				"Did you destroy it? Answer me, youkai!"
+                "But it's not here now. No houses or people. What happened?",
+                "Did you destroy it? Answer me, youkai!"
             ]
         },
         "63_0": {
@@ -77,13 +77,13 @@
         "65_0": {
             "lines": [
                 "Reimu, we should get moving.",
-				"This is a waste of time. No one's listening."
+                "This is a waste of time. No one's listening."
             ]
         },
         "66_0": {
             "lines": [
                 "Besides, there's a show here next week.",
-				"Genso Bit Blit 59. We'll be back."
+                "Genso Bit Blit 59. We'll be back."
             ]
         },
         "67_0": {
@@ -93,8 +93,8 @@
         },
         "68_0": {
             "lines": [
-				"You just erased the entire village of humans.",
-				"I'm pretty sure that's illegal."
+                "You just erased the entire village of humans.",
+                "I'm pretty sure that's illegal."
             ]
         },
         "69_0": {
@@ -115,7 +115,7 @@
         "72_0": {
             "lines": [
                 "Taunting Reimu I can accept, and even approve of,",
-				"but don't think you can get away from the tape so easily."
+                "but don't think you can get away from the tape so easily."
             ]
         },
         "73_0": {
@@ -137,13 +137,13 @@
         "76_0": {
             "lines": [
                 "Really, what <i$are> you two?",
-				"A human and youkai blasting inhuman music."
+                "A human and youkai blasting inhuman music."
             ]
         },
         "77_0": {
             "lines": [
                 "Don't worry. This stuff's pretty catchy.",
-				"You kinda start to warm up to it."
+                "You kinda start to warm up to it."
             ]
         },
         "78_0": {
@@ -159,13 +159,13 @@
         "80_0": {
             "lines": [
                 "You're a half-beast, right? Only listens to old music,",
-				"made with primitive synthesizers, by French men."
+                "made with primitive synthesizers, by French men."
             ]
         },
         "81_0": {
             "lines": [
-				"It's the history of this trash you're playing now, you idiot.",
-				"The origins of all your plebian dance music!"
+                "It's the history of this trash you're playing now, you idiot.",
+                "The origins of all your plebian dance music!"
             ]
         },
         "82_0": {
@@ -217,8 +217,8 @@
     "1": {
         "60_0": {
             "lines": [
-				"That fight would've been better to \"Gold Experience.\"",
-				"Anyway, put the Human Village back."
+                "That fight would've been better to \"Gold Experience.\"",
+                "Anyway, put the Human Village back."
             ]
         },
         "61_0": {
@@ -229,7 +229,7 @@
         },
         "62_0": {
             "lines": [
-				"If you're not here for the humans,",
+                "If you're not here for the humans,",
                 "then where are you trying to go?"
             ]
         },
@@ -273,7 +273,7 @@
         "70_0": {
             "lines": [
                 "We should have the next show at the shrine, then.",
-				"\"Genso Microcode 59 @ Hakurei Shrine.\" Good idea."
+                "\"Genso Microcode 59 @ Hakurei Shrine.\" Good idea."
             ]
         }
     }

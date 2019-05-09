@@ -287,4 +287,4 @@ Mandalore's Anime Containment
 
 Anyone who actually bothered to download this meme. Bug me on Discord and I'll put your name here for the screencap.
 
-Mad props out to Nmlgc, Arandui42.
+Mad props out to Nmlgc, Arandui42, Gaston.
