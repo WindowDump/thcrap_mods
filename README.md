@@ -31,3 +31,9 @@ The files from the visible hitbox option from the above retexture mod.
 Replaces translations and scripts with those from the old static patches, developed by Simon Elén and the Touhou Wiki. These date back to about 2006 and feature very old translations and decisions. The most significant changes are the font used (Arial, MS UI Gothic), and the choice to subtitle most text in the game rather than outright replacing it as the current thpatch translation does. This was mostly done to try to get Tom to switch to thcrap, but maybe it can be fun to root through and see how much things have changed, for historical purposes.
 
 Note that because all of this content was posted on the Touhou Wiki, it should be within the license to redistribute it in this way. Other old static translations appear to not be under this kind of permissive license, so I doubt I'll do this in the future unless someone actually wants this.
+
+(Update September 2019: If gensokyo.org goes down I'm ripping their patches and adding them here. Call the police, I don't give a damn.)
+
+# PCB_Retexture
+
+Retexture mod by internationally famous superplayer [Gastari](https://www.twitch.tv/Gastari). Unlike everything else here, this is not a meme patch, and you may actually enjoy using this.
