@@ -6,8 +6,9 @@
 		"EoSD_Retexture_Hitbox": "(TH06) Visible hitbox option from EoSD Retexture Patch by Emarrel",
 		"PCB_Retexture": "(TH07) Rexture Patch by Gastari",
 		"Static_English": "(TH06, TH07) Static English patch by Simon Elén & Touhou Wiki",
-		"chipin": "(TH08) Chipmusic mod with new script for Barrier Team.",
-		"chipin_base": "Base files for chipin."
+		"Undefined_Fantastic_Emoji": "(TH12) Emoji-themed graphics by Gastari",
+		"chipin": "(TH08) Chipmusic mod with new script for Barrier Team",
+		"chipin_base": "Base files for chipin"
 	},
 	"servers": [
 		"https://mirrors.thpatch.net/WindowDump/",

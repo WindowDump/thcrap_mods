@@ -10,6 +10,6 @@
 		"https://raw.githubusercontent.com/WindowDump/thcrap_mods/master/chipin/",
 		"http://mirrors.thpatch.net/WindowDump/chipin/"
 	],
-	"title": "(TH08) Chipmusic mod with new script for Barrier Team.",
+	"title": "(TH08) Chipmusic mod with new script for Barrier Team",
 	"update": true
 }
